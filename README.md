@@ -1,5 +1,5 @@
-#Roulette-Game
-##Game Allows you too
+# Roulette-Game
+## Game Allows you too
 * The roulette wheel has the numbers 0-36 on it
 * You can place your bet in one of three ways
 * Bet on a number (payout is 36 times the bet amount
